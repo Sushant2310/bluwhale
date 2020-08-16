@@ -1,0 +1,9 @@
+.card-styling{
+    padding: 10px
+}
+.button-styling{
+    float: right;
+}
+.cancel-button{
+    margin-left: 10px !important;
+}
