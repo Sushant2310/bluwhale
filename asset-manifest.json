@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bluwhale/static/css/main.ac49d2bf.chunk.css",
+    "main.js": "/bluwhale/static/js/main.0f2d9805.chunk.js",
+    "main.js.map": "/bluwhale/static/js/main.0f2d9805.chunk.js.map",
+    "runtime-main.js": "/bluwhale/static/js/runtime-main.8c7a940e.js",
+    "runtime-main.js.map": "/bluwhale/static/js/runtime-main.8c7a940e.js.map",
+    "static/js/2.b3251344.chunk.js": "/bluwhale/static/js/2.b3251344.chunk.js",
+    "static/js/2.b3251344.chunk.js.map": "/bluwhale/static/js/2.b3251344.chunk.js.map",
+    "index.html": "/bluwhale/index.html",
+    "precache-manifest.7747d49bc00efe47a465d45ba652a19b.js": "/bluwhale/precache-manifest.7747d49bc00efe47a465d45ba652a19b.js",
+    "service-worker.js": "/bluwhale/service-worker.js",
+    "static/css/main.ac49d2bf.chunk.css.map": "/bluwhale/static/css/main.ac49d2bf.chunk.css.map",
+    "static/js/2.b3251344.chunk.js.LICENSE.txt": "/bluwhale/static/js/2.b3251344.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/bluwhale/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c7a940e.js",
+    "static/js/2.b3251344.chunk.js",
+    "static/css/main.ac49d2bf.chunk.css",
+    "static/js/main.0f2d9805.chunk.js"
+  ]
+}
